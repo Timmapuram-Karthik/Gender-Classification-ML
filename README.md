@@ -1,5 +1,7 @@
 # Gender Classification Model - Machine Learning Project
 
+# To Open the Machine Learning Project
+[Open in Google Colab](https://colab.research.google.com/github/Timmapuram-Karthik/Gender-Classification-ML/blob/main/Gender%20Classification.ipynb)
 
 ## Overview:
 
