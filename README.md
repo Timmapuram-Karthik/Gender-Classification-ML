@@ -1,8 +1,11 @@
 # Gender Classification Model - Machine Learning Project
 
+## Explore the Gender Classification Model!
+Click below to open the project in an interactive Google Colab notebook:
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Timmapuram-Karthik/Gender-Classification-ML/blob/main/Gender%20Classification.ipynb)
 
 ## Overview:
-
 The Gender Classification Model is a machine learning project that utilizes the Logistic Regression algorithm to predict the gender of individuals based on various features such as long hair, forehead width, forehead height, nose width, nose long, lips thin,	distance from nose to lip long. The project is built using Python programming language and scikit-learn library.
 
 ## Dataset:
